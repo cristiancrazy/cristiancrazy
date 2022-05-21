@@ -1,16 +1,28 @@
-### Hi there 👋
+![](https://img.shields.io/github/followers/cristiancrazy?style=social)
+### Hi everyone!👋
+[🤷‍♂️] I am Cristian Capraro, actually, an 18 years old, CS student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy). I live with my family, in a small village located near lake Maggiore.
 
-<!--
-**cristiancrazy/cristiancrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[👨‍💻] Since the last three years, I've been studying the **Java programming language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+[📖] Since May 2022, I am certified ITE technician by [Cisco Networking Academy](https://www.netacad.com/). I choosed to certify myself not only because I think it's useful, but because I love **computer networks** and electronics. 
+
+[📖] I am also certified in English, at B1 level, by [Cambridge English](https://www.cambridgeenglish.org/). English is a must in every IT sector, and I will continue to improve my language capabilities.
+
+---------------------------------------------------------------------------------------------------------------
+
+### My Software Projects
+[🔭] I am currently working on a bunch of different projects: from basics tools written in C/C++/Java (like IP checker etc.) to advanced multi-language projects.
+
+[🔧] Since the last few months, I've been working on a **team project** called ***[Mediaticon](https://mediaticon.rootlet.it)***, which we hope to present you as soon as possible.
+
+---------------------------------------------------------------------------------------------------------------
+### Links
+
+[Website](https://me.cristiancrazy.it): to get more information about me and my projects, and to download useful materials.
+
+[Blog](https://blog.cristiancrazy.it): a digital place where I write about different topics, not only PCs software.
+
+[Instagram](https://instagram.com/cristiancrazyit): another good place 😄.
