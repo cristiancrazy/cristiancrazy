@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/followers/cristiancrazy?style=social)
+[![](https://img.shields.io/github/followers/cristiancrazy?style=social)](https://github.com/cristiancrazy)
 ### Hi everyone!👋
 [🤷‍♂️] I am Cristian Capraro, actually, an 18 years old, CS student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy). I live with my family, in a small village located near lake Maggiore.
 
