@@ -27,6 +27,9 @@
 
 [Website](https://me.cristiancrazy.it): to get more information about me and my projects, and to download useful materials.
 
+[Rootlet](https://rootlet.it): It's a multi-purpose project and news hub. It provide some useful information to users who want to 
+know tricky things 😏. 
+
 [Blog](https://blog.cristiancrazy.it): a digital place where I write about different topics, not only PCs software.
 
 [Instagram](https://instagram.com/cristiancrazyit): another good place 😄.
