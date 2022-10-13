@@ -17,7 +17,9 @@
 ---------------------------------------------------------------------------------------------------------------
 <!-- Main projects informations here -->
 ### My Software Projects
+
 [🔭] I am currently working on a bunch of different projects: from basics tools written in C/C++/Java (like IP checker etc.) to advanced multi-language projects (like [Mediaticon CS](https://mediaticon.rootlet.it)).
+
 ---------------------------------------------------------------------------------------------------------------
 <!-- Links to external websites and social platforms -->
 ### Links
