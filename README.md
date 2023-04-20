@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=cristiancrazy&style=flat&color=red)](https://github.com/cristiancrazy)
 <!-- General Informations Here -->
 ### Hi everyone!👋
-[🤷‍♂️] I am Cristian Capraro, actually, an 18 years old, CS student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy). I live with my family, in a small village, near lake Maggiore.
+[🤷‍♂️] I am Cristian Capraro, actually a 19 years old, CS student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy). I live with my family, in a small village, near lake Maggiore.
 
 [👨‍💻] Since the last three years, I've been studying the **Java programming language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
 
@@ -16,15 +16,33 @@
 
 ---------------------------------------------------------------------------------------------------------------
 <!-- Main projects informations here -->
-### Software Projects
-
-[🔭] I am currently involved on a bunch of different projects: from basic tools written in C/C++/Java (like IP checker etc.) to advanced multi-language projects (like [Mediaticon](https://mediaticon.rootlet.it)).
-
 ### Featured Projects
 
 - [🔭] [BookShelf](https://bookshelf.rootlet.it) - simply book catalogue system realized for local libraries which need it.
 This project is distributed under MIT License.
----------------------------------------------------------------------------------------------------------------
+
+### Educational Projects
+
+- [🔭] Subnet calculator and IP checker
+- [🔭] XML Data parser
+- [🔭] Arduino Testing Suite
+- and much more...
+
+### Classified Project
+
+- Sometimes I collaborate with companies (who contact me) 
+in the field of software development.
+- Other times, people ask me to create their website
+(mostly custom, without a properly CMS).
+
+### Archived Old Project
+- [🔭] [Mediaticon](https://mediaticon.rootlet.it) - was a free-to-use but closed-source project, commissioned
+to the Rootlet team by a company. 
+The complete suite featured information crawlers (written in Python), a program schedulator
+(written in Java), the main program (written in C#) and some installation script (written in shell / ps1 script).
+
+
+-----------------------------------------------------------------------------------------------------------------
 <!-- Links to external websites and social platforms -->
 ### Links
 
@@ -33,7 +51,10 @@ This project is distributed under MIT License.
 [Rootlet](https://rootlet.it): It's a multi-purpose project and news hub. It provide some useful information to users who want to 
 know tricky things 😏.
 
+[Blog](https://blog.rootlet.it): where Rootlet team and external collaborators post their researches and tutorials.
+There aren't english translations yet: only available in Italian 🍕. We aren't payed at all...
+
 [Instagram](https://instagram.com/cristiancrazyit): another good place 😄.
-<!-- [Blog](https://blog.cristiancrazy.it): (*currently abandoned*) a digital place where I write about different topics, not only PCs software. -->
+
 
 ---------------------------------------------------------------------------------------------------------------
