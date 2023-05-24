@@ -3,7 +3,7 @@
 [![](https://komarev.com/ghpvc/?username=cristiancrazy&style=flat&color=red)](https://github.com/cristiancrazy)
 <!-- General Informations Here -->
 ### Hi everyone!👋
-[🤷‍♂️] I am Cristian Capraro, actually a 19 years old, CS student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy). I live with my family, in a small village, near lake Maggiore.
+[🤷‍♂️] I am Cristian Capraro, actually a 19 years old CS student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy). I live with my family, in a small village, near Arona (NO).
 
 [👨‍💻] Since the last three years, I've been studying the **Java programming language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
 
@@ -12,11 +12,13 @@
 ### Certifications
 [📖] Since May 2022, I am certified ITE technician by [Cisco Networking Academy](https://www.netacad.com/). I choosed to certify myself not only because I think it's useful, but because I love **computer networks** and microchips. 
 
-[📖] I am also certified in English, at B1 level, by [Cambridge English](https://www.cambridgeenglish.org/). English is a must in every IT sector, and I will continue to improve my language capabilities.
+[📖] Since May 2023, I've completed and achieved the CCNA (Routing and Switching) certification.
+
+[📖] I am also certified in English, at B1 level, by [Cambridge English](https://www.cambridgeenglish.org/). English is a must in every IT sector, and I will continue to improve my language skills.
 
 ---------------------------------------------------------------------------------------------------------------
 <!-- Main projects informations here -->
-### Featured Projects
+### WIP/Featured Projects
 
 - [🔭] [BookShelf](https://bookshelf.rootlet.it) - simply book catalogue system realized for local libraries which need it.
 This project is distributed under MIT License.
@@ -28,14 +30,14 @@ This project is distributed under MIT License.
 - [🔭] Arduino Testing Suite
 - and much more...
 
-### Classified Project
+### Classified Projects
 
 - Sometimes I collaborate with companies (who contact me) 
 in the field of software development.
 - Other times, people ask me to create their website
 (mostly custom, without a properly CMS).
 
-### Archived Old Project
+### Archived Old Projects
 - [🔭] [Mediaticon](https://mediaticon.rootlet.it) - was a free-to-use but closed-source project, commissioned
 to the Rootlet team by a company. 
 The complete suite featured information crawlers (written in Python), a program schedulator
