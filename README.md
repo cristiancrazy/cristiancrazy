@@ -3,16 +3,23 @@
 [![](https://komarev.com/ghpvc/?username=cristiancrazy&style=flat&color=red)](https://github.com/cristiancrazy)
 <!-- General Informations Here -->
 ### Hi everyone!👋
-[🤷‍♂️] I am Cristian Capraro, actually a 19 years old CS student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy). I live with my family, in a small village, near Arona (NO).
+
+---------------------------------------------------------------------------------------------------------------
+### General Biography
+[🤷‍♂️] I am Cristian Capraro, actually a 19 years old CS student, attending UNI.
+
+I was an IT student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy) for five years and, in 2023, I finished with a grade of **94/100**. 
+
+I live with my family, in a small village, near Arona (NO).
 
 [👨‍💻] Since the last three years, I've been studying the **Java programming language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
 
 ---------------------------------------------------------------------------------------------------------------
 <!-- Certifications Here -->
 ### Certifications
-[📖] Since May 2022, I am certified ITE technician by [Cisco Networking Academy](https://www.netacad.com/). I choosed to certify myself not only because I think it's useful, but because I love **computer networks** and microchips. 
+[📖] Since May 2022, I am certified ITE technician by [Cisco Networking Academy](https://www.netacad.com/).
 
-[📖] Since May 2023, I've completed and achieved the CCNA (Routing and Switching) certification.
+[📖] Since May 2023, I've completed and achieved the CCNA (Routing and Switching) certification by [Cisco Networking Academy](https://www.netacad.com/).
 
 [📖] I am also certified in English, at B1 level, by [Cambridge English](https://www.cambridgeenglish.org/). English is a must in every IT sector, and I will continue to improve my language skills.
 
@@ -20,6 +27,7 @@
 <!-- Main projects informations here -->
 ### WIP/Featured Projects
 
+- [🔭] Actually working on a web-based catalogue system, based on the older Bookshelf project.
 - [🔭] [BookShelf](https://bookshelf.rootlet.it) - simply book catalogue system realized for local libraries which need it.
 This project is distributed under MIT License.
 
