@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------------------------------------------
 ### General Biography
-[🤷‍♂️] I am Cristian Capraro, actually a 19 years old CS student, attending UNI.
+[🤷‍♂️] I am Cristian Capraro, actually a 19 years old CS student in UniUPO (VC, Italy).
 
 I was an IT student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy) for five years and, in 2023, I finished with a grade of **94/100**. 
 
@@ -17,9 +17,10 @@ I live with my family, in a small village, near Arona (NO).
 ---------------------------------------------------------------------------------------------------------------
 <!-- Certifications Here -->
 ### Certifications
-[📖] Since May 2022, I am certified ITE technician by [Cisco Networking Academy](https://www.netacad.com/).
 
 [📖] Since May 2023, I've completed and achieved the CCNA (Routing and Switching) certification by [Cisco Networking Academy](https://www.netacad.com/).
+
+[📖] Since May 2022, I am certified ITE technician by [Cisco Networking Academy](https://www.netacad.com/).
 
 [📖] I am also certified in English, at B1 level, by [Cambridge English](https://www.cambridgeenglish.org/). English is a must in every IT sector, and I will continue to improve my language skills.
 
