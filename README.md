@@ -6,13 +6,13 @@
 
 ---------------------------------------------------------------------------------------------------------------
 ### General Biography
-[🤷‍♂️] I am Cristian Capraro, actually a 19 years old CS student in UniUPO (VC, Italy).
+[🤷‍♂️] I am Cristian Capraro, actually a 19 years old CS student in [UniUPO](https://disit.uniupo.it/it) (VC, Italy).
 
 I was an IT student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy) for five years and, in 2023, I finished with a grade of **94/100**. 
 
-I live with my family, in a small village, near Arona (NO).
+I live with my family, in a small village near Arona (NO).
 
-[👨‍💻] Since the last three years, I've been studying the **Java programming language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
+[👨‍💻] Since the last three years, I've been studying the **Java language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
 
 ---------------------------------------------------------------------------------------------------------------
 <!-- Certifications Here -->
@@ -39,19 +39,23 @@ This project is distributed under MIT License.
 - [🔭] Arduino Testing Suite
 - and much more...
 
-### Classified Projects
+### Private Projects
 
-- Sometimes I collaborate with companies (who contact me) 
-in the field of software development.
-- Other times, people ask me to create their website
-(mostly custom, without a properly CMS).
+- [🌐] Personal and professional website creation
+- [👨🏻‍🤝‍👨🏻] Access Control trough NFC/Chip solutions
+- [🔎] Database and API for website and applications
+- [💻] Desktop applications 
+- [📲] Mobile application and web-apps
+- [🔐] Remote control and telemetry systems
+
+If you need to contact me, please use my email address.
+I will answer as soon as possible.
 
 ### Archived Old Projects
 - [🔭] [Mediaticon](https://mediaticon.rootlet.it) - was a free-to-use but closed-source project, commissioned
 to the Rootlet team by a company. 
 The complete suite featured information crawlers (written in Python), a program schedulator
 (written in Java), the main program (written in C#) and some installation script (written in shell / ps1 script).
-
 
 -----------------------------------------------------------------------------------------------------------------
 <!-- Links to external websites and social platforms -->
@@ -66,6 +70,5 @@ know tricky things 😏.
 There aren't english translations yet: only available in Italian 🍕. We aren't payed at all...
 
 [Instagram](https://instagram.com/cristiancrazyit): another good place 😄.
-
 
 ---------------------------------------------------------------------------------------------------------------
