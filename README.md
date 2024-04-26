@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------------------------------------------
 ### General Biography
-[🤷‍♂️] I am Cristian Capraro, actually a 19 years old CS student in [UniUPO](https://disit.uniupo.it/it) (VC, Italy).
+[🤷‍♂️] I am Cristian Capraro, actually a 20 years old CS student in [UniUPO](https://disit.uniupo.it/it) (VC, Italy).
 
 I was an IT student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy) for five years and, in 2023, I finished with a grade of **94/100**. 
 
