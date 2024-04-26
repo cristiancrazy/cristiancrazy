@@ -12,7 +12,7 @@ I was an IT student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, I
 
 I live with my family, in a small village near Arona (NO).
 
-[👨‍💻] Since the last three years, I've been studying the **Java language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
+[👨‍💻] Since the last four years, I've been studying the **Java language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
 
 ---------------------------------------------------------------------------------------------------------------
 <!-- Certifications Here -->
