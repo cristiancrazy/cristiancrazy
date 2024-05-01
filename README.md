@@ -15,6 +15,49 @@ I live with my family, in a small village near Arona (NO).
 [👨‍💻] Since the last four years, I've been studying the **Java language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
 
 ---------------------------------------------------------------------------------------------------------------
+<!-- Languages Here -->
+### My Skills on Programming Languages 
+
+Actually, during my degree and as a CS Student, I have studied the following languages:
+
+- [📖] Software low-level **Microcode**,  just like `MicroAssembly`
+
+- [📖] **C** and **C++**, and some other related C-like languages;
+
+- [📖] **PHP** and a bit of *Java* for the web application part.
+
+- [📖] MySQL-related Database **SQL Language**
+
+- [📖] And the **Cisco Configuration Language** for network-specific appliances.
+
+On my own, I have studied:
+
+- [👨‍💻] **Java** and its hidden behaviours: studied for 4 years and used in a large variety of my project / gists as the main language.
+  - Networking Applications, Secure Sockets, Mutual Certificate Authentication and Management, Multithreading and concurrency.
+  - BouncyCastle Security Framework
+  - Graphical environment with AWT, Swing and JFX.
+  - Java Database (JDBC) for MySQL, UCA for reading and modifying MS Access DB.
+  - Java HyperSQL Database Implementation.
+  - Physical Security with the internal SmartCardIO and APDU commands.
+  - **Mobile application development**
+  - And more...
+
+- [👨‍💻] Recently approached **GoLang**, and already used in some volunteering and personal projects.
+  - HTTP Server with Websockets implementation
+  - Image and Video Processing
+  - Personal intrusion detection and prevention system, DoS detection and mitigating system
+  - Authentication, Time OTP Security implementation, SmartCard reading and writing implementation through the APDU.
+
+- [👨‍💻] Web-related languages and Frameworks: **PHP**, **JAVASCRIPT**, **HTML** and **CSS**, **BS5** and **UIKIT**
+
+- [👨‍💻] Scripting languages like **NSIS** scripting, **BASH SCRIPT (.sh)** and **POWERSHELL SCRIPT (.ps1)**.
+
+- [👨‍💻] Used on MCUs: primarily C-like languages with **Arduino Sketching**, **Microchip Studio** (AVR Studio),
+  and **Micropython**. 
+
+- [👨‍💻] Language not used recently, but that I know: **LUA**, **C#**, **Visual Basic**.
+
+---------------------------------------------------------------------------------------------------------------
 <!-- Certifications Here -->
 ### Certifications
 
@@ -51,6 +94,19 @@ This project is distributed under MIT License.
 If you need to contact me, please use my email address.
 I will answer as soon as possible.
 
+### Actually Working On
+
+#### BiblioDGN Project (Self-Hosted Web application)
+
+I am actually working on some volunteering project, such as the project named **BiblioDNG**.
+This project is a web application, made primarily in Go and HTML Templates, which enables
+a specific category of users to register and manage a *Town Local Library*.
+
+This Project will become public available, under the MIT license, 
+as soon as we (me and my collabotors) finish the first stable version (v1.0).
+
+In our release schedule, it will happens on June or July 2024.
+
 ### Archived Old Projects
 - [🔭] [Mediaticon](https://mediaticon.rootlet.it) - was a free-to-use but closed-source project, commissioned
 to the Rootlet team by a company. 
@@ -69,6 +125,6 @@ know tricky things 😏.
 [Blog](https://blog.rootlet.it): where Rootlet team and external collaborators post their researches and tutorials.
 There aren't english translations yet: only available in Italian 🍕. We aren't payed at all...
 
-[Instagram](https://instagram.com/cristiancrazyit): another good place 😄.
+[Instagram](https://instagram.com/it.cristiancrazy): another good place 😄.
 
 ---------------------------------------------------------------------------------------------------------------
