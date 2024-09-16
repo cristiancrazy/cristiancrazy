@@ -105,7 +105,7 @@ a specific category of users to register and manage a *Town Local Library*.
 This Project will become public available, under the MIT license, 
 as soon as we (me and my collabotors) finish the first stable version (v1.0).
 
-In our release schedule, it will happens on June or July 2024.
+In our release schedule, it will happens on Early October 2024.
 
 ### Archived Old Projects
 - [🔭] [Mediaticon](https://mediaticon.rootlet.it) - was a free-to-use but closed-source project, commissioned
