@@ -20,32 +20,48 @@ I live with my family, in a small village near Arona (NO).
 
 Actually, during my degree and as a CS Student, I have studied the following languages:
 
-- [📖] Software low-level **Microcode**,  just like `MicroAssembly`
+- [📖] Software low-level **Microcode**, just like `MicroAssembly`.
 
-- [📖] **C** and **C++**, and some other related C-like languages;
+- [📖] **C** and **C++**, and some other related C-like languages.
+
+- [📖] The soul of **NodeJS** and *Express* framework.
 
 - [📖] **PHP** and a bit of *Java* for the web application part.
 
-- [📖] MySQL-related Database **SQL Language**
+- [📖] A crunchy piece of **Python** - but I don't appreciate `\t` indent system.
+
+- [📖] MySQL/PostgreSQL-related Database **SQL Language**.
 
 - [📖] And the **Cisco Configuration Language** for network-specific appliances.
 
 On my own, I have studied:
 
 - [👨‍💻] **Java** and its hidden behaviours: studied for 4 years and used in a large variety of my project / gists as the main language.
+
   - Networking Applications, Secure Sockets, Mutual Certificate Authentication and Management, Multithreading and concurrency.
+
   - BouncyCastle Security Framework
+
   - Graphical environment with AWT, Swing and JFX.
+
   - Java Database (JDBC) for MySQL, UCA for reading and modifying MS Access DB.
+
   - Java HyperSQL Database Implementation.
+
   - Physical Security with the internal SmartCardIO and APDU commands.
+
   - **Mobile application development**
+
   - And more...
 
 - [👨‍💻] Recently approached **GoLang**, and already used in some volunteering and personal projects.
+
   - HTTP Server with Websockets implementation
+
   - Image and Video Processing
+
   - Personal intrusion detection and prevention system, DoS detection and mitigating system
+
   - Authentication, Time OTP Security implementation, SmartCard reading and writing implementation through the APDU.
 
 - [👨‍💻] Web-related languages and Frameworks: **PHP**, **JAVASCRIPT**, **HTML** and **CSS**, **BS5** and **UIKIT**
