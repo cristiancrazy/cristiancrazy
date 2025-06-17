@@ -6,11 +6,11 @@
 
 ---------------------------------------------------------------------------------------------------------------
 ### General Biography
-[🤷‍♂️] I am Cristian Capraro, actually a 20 years old CS student in [UniUPO](https://disit.uniupo.it/it) (VC, Italy).
+[🤷‍♂️] I am Cristian Capraro, actually a 21 years old CS student in [UniUPO](https://disit.uniupo.it/it) (VC, Italy).
 
 I was an IT student of [ITIS Fauser](https://www.fauser.edu) (sited in Novara, Italy) for five years and, in 2023, I finished with a grade of **94/100**. 
 
-I live with my family, in a small village near Arona (NO).
+I live with my family, in a small village sited between Arona (NO) and Borgomanero (NO).
 
 [👨‍💻] Since the last four years, I've been studying the **Java language☕**, improving my coding skills everyday and, of course, practising my problem solving and logic capabilities.
 
@@ -133,14 +133,13 @@ The complete suite featured information crawlers (written in Python), a program 
 <!-- Links to external websites and social platforms -->
 ### Links
 
-[Website](https://me.cristiancrazy.it): to get more information about me and my projects, and to download useful materials.
+[Website](https://cristiancrazy.it): to get more information about me and my projects, and to download useful materials.
+
+[Instagram](https://instagram.com/it.cristiancrazy): another good place 😄.
 
 [Rootlet](https://rootlet.it): It's a multi-purpose project and news hub. It provide some useful information to users who want to 
 know tricky things 😏.
 
-[Blog](https://blog.rootlet.it): where Rootlet team and external collaborators post their researches and tutorials.
-There aren't english translations yet: only available in Italian 🍕. We aren't payed at all...
-
-[Instagram](https://instagram.com/it.cristiancrazy): another good place 😄.
+[The old blog](https://blog.rootlet.it): where Rootlet team and external collaborators posted their researches and tutorials. There aren't english translations yet: only available in Italian 🍕. We aren't payed at all...
 
 ---------------------------------------------------------------------------------------------------------------
